@@ -5,3 +5,4 @@ SourceTreeのテスト
 a
 a
 a
+a
