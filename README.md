@@ -4,3 +4,4 @@ SourceTreeのテスト
 改行
 a
 a
+a
