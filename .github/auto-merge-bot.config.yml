@@ -1,6 +1,6 @@
 labels:
   - auto_merge
-  - [a, b]
+  - [Dependencies 📦, b]
 
 # マージするPRにつけるラベルの条件
 # 上記の例では、 auto_merge_force OR ( auto_merge AND minor ) の条件に一致したらマージを行います。
